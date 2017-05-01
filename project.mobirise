@@ -336,7 +336,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -786,7 +786,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -831,7 +831,7 @@
           "title3": "Email Signup Database and Capture",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Email ACapture Setups into GTP CMS, CRM. &nbsp;Thankyou pages and autoresponsses. Can trigger drip campaign of emails from signups.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -902,7 +902,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
