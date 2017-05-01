@@ -562,6 +562,13 @@ h6,
 #msg-box2-m .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#header3-1o .mbr-section-title,
+#header3-1o .mbr-section-subtitle {
+  text-align: center;
+}
+#features1-1n .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #form1-1m .form-control-label {
   color: #232323;
 }
