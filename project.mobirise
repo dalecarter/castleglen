@@ -1513,7 +1513,7 @@
           "title2": "STEP 2. &nbsp;PAYMENT",
           "subtitle2": "We Invoice",
           "caption2": "We will invoice you for the deposit so we can begin on the design, data entry, and content creation components.<br><br>Once your deposit is paid we can begin.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://gtpicommerce.gtp-icommerce.com.au\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MAKE A PAYMENT TO GET STARTED</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.gtp.com.au/php/ic5/order/transaction/webPOS.php\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MAKE A PAYMENT TO GET STARTED</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
