@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Castleglenn Digital Marketing Action Plan",
-    "currentPage": "index.html",
+    "currentPage": "terms.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1905,7 +1905,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p><b>1.2 GRANT OF LICENCE FOR GTP DEVELOPED SOFTWARE</b></p><p>Where GTP iCommerce softwares are used, the Licensor retains ownershop of the software products, database, and code that powers any and all GTP-iCommerce developed products and services, including all programming code used to display, operate and manage licensee’s websites and other software applications. In consideration of the payment by the Licensee to the Licensor of the Licence Fees referred to in clause 1.3, and upon and subject to the terms and conditions set out in this Agreement, the Licensor grants the Licensee a non-exclusive licence to use GTP iCommerce software products and programming code (\"Licence\"). The Licensor retains title and ownership of GTP iCommerce code, technical data, database and hardware infrastructure. The Licence only applies to the Internet domain name(s) shown in Item 3 of Schedule 1 hereto.</p>",
+              "text": "<p><b>1.2 GRANT OF LICENCE FOR GTP DEVELOPED SOFTWARE</b></p><p>Where GTP iCommerce softwares are used, the Licensor retains ownership of the software products, database, and code that powers any and all GTP-iCommerce developed products and services, including all programming code used to display, operate and manage licensee’s websites and other software applications. In consideration of the payment by the Licensee to the Licensor of the Licence Fees referred to in clause 1.3, and upon and subject to the terms and conditions set out in this Agreement, the Licensor grants the Licensee a non-exclusive licence to use GTP iCommerce software products and programming code (\"Licence\"). The Licensor retains title and ownership of GTP iCommerce code, technical data, database and hardware infrastructure. The Licence only applies to the Internet domain name(s) shown in Item 3 of Schedule 1 hereto.</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
