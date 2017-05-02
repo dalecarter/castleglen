@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Castleglenn Digital Marketing Action Plan",
-    "currentPage": "terms.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 61,
+    "uniqCompNum": 63,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -153,7 +153,7 @@
           },
           "title": "CASTLEGLEN<br>Digital Marketing Action Plan and Investment Profile",
           "text": "Castleglen Require a Digital Roadmap and Quality Execution to Drive Continuous Growth and Expansion of Their Food and Toiletries Wholesale Business.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header1-0\" data-toolbar=\"-mbrBtnMove\">START YOUR ENGINES</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header1-0\" data-toolbar=\"-mbrBtnMove\">Read on Below</a>"
         },
         {
           "_styles": {
@@ -365,7 +365,7 @@
           },
           "title2": "SEO<br><span style=\"font-weight: normal;\">$990 Per Month</span>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "8 Hours SEO focused on content marketing, link building (off page seo). &nbsp;Technical SEO audits and remediation, On Page SEO",
+          "caption2": "8 Hours SEO focused on content marketing, link building (off page seo). &nbsp;Technical SEO audits and remediation, On Page SEO<br><br>(Please see comment below about SEO not needing to be focus)",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -380,7 +380,7 @@
           },
           "title3": "PPC Management<br><span style=\"font-weight: normal;\">$1320 SETUP + $330 Per Month + Ad Fees</span>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "PPC setup and running on Adwords and Facebook Platforms and remarketing setup.",
+          "caption3": "PPC setup and running on Adwords and Facebook Platforms and remarketing setup.<br><br>NOTE: Our focus would likely be on Remarketing - Retargeting known prospects.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -430,6 +430,40 @@
               "font-size": "30px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "SEO possibly not required at this stage?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>As Castleglen know their client base and client targets well and have a database of these contacts. &nbsp;A more targeted campaign via letter, phone, print materials with orders, email and visual retargeting ads (PPC) that follow your known prospects around would appear to be a better use of your marketing dollar.</p><p><br></p><p>While All technical SEO and Organic SEO is inbuilt, rather then spending SEO dollars on link building, a more direct marketing strategy will be a better use of budget. &nbsp;</p><p><br></p>",
+          "text2": "<p>Retargeting your existing clients and known prospects via graphic ads on facebook and googles search network can be achieved if we have email addresses of your prospects.</p><p><br></p><p>This can be an effective way of promoting new products or various promotions over a short period of time to reinforce email communications, phone, and print materials delivered with orders.</p>"
         },
         {
           "_styles": {

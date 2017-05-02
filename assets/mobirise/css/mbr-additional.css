@@ -486,6 +486,10 @@ h6,
 #features6-4 H4 {
   font-size: 30px;
 }
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
