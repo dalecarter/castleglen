@@ -113,7 +113,7 @@
               "src": "@PROJECT_PATH@/assets/images/gtp-icom-logo-rgb-664x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://gtpicommerce.gtp-icommerce.com",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1513,7 +1513,7 @@
           "title2": "STEP 2. &nbsp;PAYMENT",
           "subtitle2": "We Invoice",
           "caption2": "We will invoice you for the deposit so we can begin on the design, data entry, and content creation components.<br><br>Once your deposit is paid we can begin.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MAKE A PAYMENT TO GET STARTED</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://gtpicommerce.gtp-icommerce.com.au\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MAKE A PAYMENT TO GET STARTED</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -1529,7 +1529,7 @@
           "title3": "STEP 3. DELIVERY",
           "subtitle3": "Service Delivery",
           "caption3": "We will keep in contact weekly to update you on our progress and remind you of what we need from you<br><br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALL US</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CALL US</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -2360,7 +2360,7 @@
               "src": "@PROJECT_PATH@/assets/images/gtp-icom-logo-rgb-664x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://gtpicommerce.gtp-icommerce.com",
               "title": "",
               "linkInNewWindow": false
             },
